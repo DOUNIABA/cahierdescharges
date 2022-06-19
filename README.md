@@ -28,21 +28,17 @@ La connexion est basée sur le nom d'utilisateur et le mot de passe, le contenu 
 Les fonctionnalités principales :
 •	Gestion du client
 •	Gestion des chambres 
-•	Gestion des employés
-•	Gestion de piscine
-•	Gestion du restaurant
-
-
+•	Gestion des reservations
 
 Pour un admin
+
 Gestion des clients
 •	Un administrateur peut : ajouter/modifier/supprimer un client
 
-Gestion des employés
-•	Un administrateur peut : ajouter modifier /supprimer un employé
-
 Gestion des chambres 
 •	Un administrateur peut : ajouter/modifier/supprimer une chambre
+
+Gestion des reservations 
 •	Un administrateur peut : ajouter/modifier/supprimer une réservation
 
 
@@ -52,11 +48,7 @@ Un client peut : se connecter.
 Un client peut : voir les caractéristiques de la chambre.
 Un client peut : choisir les options de la chambre.
 Un client peut : réserver la chambre.
-Un client peut :  payer la réservation.
-Un client peut : imprimer la facture du payement.
-Un client peut réserver son repas du restaurant d’hôtel (petit déjeuner, déjeuner, diner).
-Un client peut faire une réservation pour la piscine d’hôtel.
 
 Technologies à utiliser :
-•	HTML5, CSS, BOOTSTRAP, PHP, JavaScript, MySQL, Conception, UML, UX, UI.
+•	HTML5, CSS, BOOTSTRAP, PHP, JavaScript, MySQL, Conception, UML , UI.
 
